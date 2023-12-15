@@ -59,15 +59,12 @@ nav{
     justify-content: space-between;
     flex-wrap: wrap;
 }
-.imageschristian-removebg-preview{
+.imageschristianremovebgpreview{
     margin-top: absolutely, 10% !important;
     width: 350px !important;
     filter:drop-shadow(10px 8px 6px #ff0077);
 }
 
-
-
-  
 nav ul li{
     display: inline-block;
     list-style: none;
