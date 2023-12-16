@@ -15,7 +15,7 @@ body{
 
 
 #header {
-    background-image: url('./images/background-removebg-preview.png');
+    background-image: url('Images/background-removebg-preview.png');
     background-size: right bottom;
     background-position: right bottom;
     background-repeat: no-repeat;
@@ -26,7 +26,7 @@ body{
 }
 
 .header {
-    background-image: url('./images/background-removebg-preview.png');
+    background-image: url('Images/background-removebg-preview.png');
     background-size: right bottom;
     background-position: right bottom;
     background-repeat: no-repeat;
@@ -59,12 +59,15 @@ nav{
     justify-content: space-between;
     flex-wrap: wrap;
 }
-.imageschristianremovebgpreview{
+.imageschristian-removebg-preview{
     margin-top: absolutely, 10% !important;
     width: 350px !important;
     filter:drop-shadow(10px 8px 6px #ff0077);
 }
 
+
+
+  
 nav ul li{
     display: inline-block;
     list-style: none;
@@ -597,7 +600,7 @@ nav .fa-solid {
 
 @media only screen and (max-width: 600px) {
     #header {
-        background-image: url('./images/background-removebg-preview.png');
+        background-image: url('Images/background-removebg-preview.png');
     }
     .header-text {
         margin-top: 100%;
